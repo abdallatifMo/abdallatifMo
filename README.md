@@ -1,4 +1,4 @@
-👋 Software Engineering Student
+👋 Computer science Student
 
 💻 Backend-focused developer passionate about building scalable web applications with Java and Spring Boot.
 
